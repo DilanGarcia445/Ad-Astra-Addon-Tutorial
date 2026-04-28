@@ -1,0 +1,8 @@
+{
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:nova",
+    "texture": "custommod:textures/sky/nova_bloom.png",
+    "speed": 110,
+    "scale": 8,
+    "radius": 0.85
+}

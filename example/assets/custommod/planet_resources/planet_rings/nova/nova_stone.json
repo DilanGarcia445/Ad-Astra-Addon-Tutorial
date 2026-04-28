@@ -1,0 +1,8 @@
+{
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:nova",
+    "texture": "custommod:textures/sky/nova_stone.png",
+    "speed": 150,
+    "scale": 6,
+    "radius": 0.5
+}

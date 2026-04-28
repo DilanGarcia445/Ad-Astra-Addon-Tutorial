@@ -1,0 +1,16 @@
+{
+    "translation": "gui.custommod.text.solara_dust",
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:solara",
+    "world": "custommod:solara_dust",
+    "orbit_world": "custommod:solara_dust_orbit",
+    "rocket_tier": 3,
+    "gravity": 3.1,
+    "has_atmosphere": false,
+    "days_in_year": 1800,
+    "temperature": -160,
+    "solar_power": 5,
+    "orbit_solar_power": 7,
+    "has_oxygen": false,
+    "button_color": "yellow"
+}

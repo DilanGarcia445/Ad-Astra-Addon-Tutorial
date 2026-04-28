@@ -1,0 +1,16 @@
+{
+    "translation": "gui.custommod.text.abyss_jade",
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:abyss",
+    "world": "custommod:abyss_jade",
+    "orbit_world": "custommod:abyss_jade_orbit",
+    "rocket_tier": 2,
+    "gravity": 9.8,
+    "has_atmosphere": true,
+    "days_in_year": 380,
+    "temperature": 10,
+    "solar_power": 18,
+    "orbit_solar_power": 21,
+    "has_oxygen": true,
+    "button_color": "green"
+}

@@ -1,0 +1,16 @@
+{
+    "translation": "gui.custommod.text.abyss_cinder",
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:abyss",
+    "world": "custommod:abyss_cinder",
+    "orbit_world": "custommod:abyss_cinder_orbit",
+    "rocket_tier": 1,
+    "gravity": 5.1,
+    "has_atmosphere": false,
+    "days_in_year": 55,
+    "temperature": 900,
+    "solar_power": 42,
+    "orbit_solar_power": 45,
+    "has_oxygen": false,
+    "button_color": "red"
+}

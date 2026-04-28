@@ -1,0 +1,13 @@
+{
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:solara",
+    "sun": "ad_astra:textures/sky/gui/solar_system_sun.png",
+    "sun_scale": 18,
+    "button_color": "orange",
+    "ring_color": {
+      "r": 200,
+      "g": 100,
+      "b": 0,
+      "a": 200
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:abyss",
+    "texture": "custommod:textures/sky/abyss_ashen.png",
+    "speed": 45,
+    "scale": 5,
+    "radius": 2.9
+}

@@ -1,0 +1,8 @@
+{
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:solara",
+    "texture": "custommod:textures/sky/solara_hollow.png",
+    "speed": 40,
+    "scale": 4,
+    "radius": 3.1
+}

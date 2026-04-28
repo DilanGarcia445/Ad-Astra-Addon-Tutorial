@@ -1,0 +1,16 @@
+{
+    "translation": "gui.custommod.text.abyss_void",
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:abyss",
+    "world": "custommod:abyss_void",
+    "orbit_world": "custommod:abyss_void_orbit",
+    "rocket_tier": 3,
+    "gravity": 5.5,
+    "has_atmosphere": true,
+    "days_in_year": 1300,
+    "temperature": -180,
+    "solar_power": 7,
+    "orbit_solar_power": 9,
+    "has_oxygen": false,
+    "button_color": "blue"
+}

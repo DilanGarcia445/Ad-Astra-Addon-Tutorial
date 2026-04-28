@@ -1,0 +1,30 @@
+{
+    "gui.custommod.text.custom_galaxy": "Custom Galaxy",
+
+    "gui.custommod.text.solara": "Solara System",
+    "gui.custommod.text.solara_prime": "Solara Prime",
+    "gui.custommod.text.solara_verdant": "Solara Verdant",
+    "gui.custommod.text.solara_frost": "Solara Frost",
+    "gui.custommod.text.solara_giant": "Solara Giant",
+    "gui.custommod.text.solara_dust": "Solara Dust",
+    "gui.custommod.text.solara_hollow": "Solara Hollow",
+
+    "gui.custommod.text.nova": "Nova System",
+    "gui.custommod.text.nova_ember": "Nova Ember",
+    "gui.custommod.text.nova_stone": "Nova Stone",
+    "gui.custommod.text.nova_bloom": "Nova Bloom",
+    "gui.custommod.text.nova_aqua": "Nova Aqua",
+    "gui.custommod.text.nova_crimson": "Nova Crimson",
+    "gui.custommod.text.nova_shadow": "Nova Shadow",
+    "gui.custommod.text.nova_veil": "Nova Veil",
+
+    "gui.custommod.text.abyss": "Abyss System",
+    "gui.custommod.text.abyss_cinder": "Abyss Cinder",
+    "gui.custommod.text.abyss_iron": "Abyss Iron",
+    "gui.custommod.text.abyss_storm": "Abyss Storm",
+    "gui.custommod.text.abyss_jade": "Abyss Jade",
+    "gui.custommod.text.abyss_ruin": "Abyss Ruin",
+    "gui.custommod.text.abyss_void": "Abyss Void",
+    "gui.custommod.text.abyss_ashen": "Abyss Ashen",
+    "gui.custommod.text.abyss_deep": "Abyss Deep"
+}

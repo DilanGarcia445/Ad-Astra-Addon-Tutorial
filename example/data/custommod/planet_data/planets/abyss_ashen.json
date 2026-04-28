@@ -1,0 +1,16 @@
+{
+    "translation": "gui.custommod.text.abyss_ashen",
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:abyss",
+    "world": "custommod:abyss_ashen",
+    "orbit_world": "custommod:abyss_ashen_orbit",
+    "rocket_tier": 4,
+    "gravity": 2.9,
+    "has_atmosphere": false,
+    "days_in_year": 2200,
+    "temperature": -220,
+    "solar_power": 4,
+    "orbit_solar_power": 5,
+    "has_oxygen": false,
+    "button_color": "white"
+}

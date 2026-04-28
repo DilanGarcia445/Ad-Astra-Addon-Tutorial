@@ -1,0 +1,16 @@
+{
+    "translation": "gui.custommod.text.nova_shadow",
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:nova",
+    "world": "custommod:nova_shadow",
+    "orbit_world": "custommod:nova_shadow_orbit",
+    "rocket_tier": 3,
+    "gravity": 7.3,
+    "has_atmosphere": true,
+    "days_in_year": 1400,
+    "temperature": -150,
+    "solar_power": 6,
+    "orbit_solar_power": 8,
+    "has_oxygen": false,
+    "button_color": "blue"
+}

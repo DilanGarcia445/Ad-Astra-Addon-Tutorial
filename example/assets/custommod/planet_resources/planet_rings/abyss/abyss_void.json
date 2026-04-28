@@ -1,0 +1,8 @@
+{
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:abyss",
+    "texture": "custommod:textures/sky/abyss_void.png",
+    "speed": 60,
+    "scale": 7,
+    "radius": 2.2
+}

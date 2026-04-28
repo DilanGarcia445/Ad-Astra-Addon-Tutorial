@@ -1,0 +1,8 @@
+{
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:solara",
+    "texture": "custommod:textures/sky/solara_verdant.png",
+    "speed": 130,
+    "scale": 7,
+    "radius": 0.6
+}

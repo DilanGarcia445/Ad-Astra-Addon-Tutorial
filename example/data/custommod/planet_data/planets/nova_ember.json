@@ -1,0 +1,16 @@
+{
+    "translation": "gui.custommod.text.nova_ember",
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:nova",
+    "world": "custommod:nova_ember",
+    "orbit_world": "custommod:nova_ember_orbit",
+    "rocket_tier": 1,
+    "gravity": 3.8,
+    "has_atmosphere": false,
+    "days_in_year": 60,
+    "temperature": 750,
+    "solar_power": 38,
+    "orbit_solar_power": 41,
+    "has_oxygen": false,
+    "button_color": "red"
+}

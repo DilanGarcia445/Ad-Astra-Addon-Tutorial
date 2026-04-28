@@ -1,0 +1,16 @@
+{
+    "translation": "gui.custommod.text.solara_frost",
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:solara",
+    "world": "custommod:solara_frost",
+    "orbit_world": "custommod:solara_frost_orbit",
+    "rocket_tier": 2,
+    "gravity": 6.2,
+    "has_atmosphere": true,
+    "days_in_year": 500,
+    "temperature": -80,
+    "solar_power": 12,
+    "orbit_solar_power": 14,
+    "has_oxygen": false,
+    "button_color": "light_blue"
+}

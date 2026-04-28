@@ -1,0 +1,16 @@
+{
+    "translation": "gui.custommod.text.solara_verdant",
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:solara",
+    "world": "custommod:solara_verdant",
+    "orbit_world": "custommod:solara_verdant_orbit",
+    "rocket_tier": 2,
+    "gravity": 8.5,
+    "has_atmosphere": true,
+    "days_in_year": 365,
+    "temperature": 18,
+    "solar_power": 20,
+    "orbit_solar_power": 22,
+    "has_oxygen": true,
+    "button_color": "green"
+}

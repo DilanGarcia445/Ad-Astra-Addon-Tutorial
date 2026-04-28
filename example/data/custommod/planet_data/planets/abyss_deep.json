@@ -1,0 +1,16 @@
+{
+    "translation": "gui.custommod.text.abyss_deep",
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:abyss",
+    "world": "custommod:abyss_deep",
+    "orbit_world": "custommod:abyss_deep_orbit",
+    "rocket_tier": 4,
+    "gravity": 1.5,
+    "has_atmosphere": false,
+    "days_in_year": 4000,
+    "temperature": -260,
+    "solar_power": 1,
+    "orbit_solar_power": 2,
+    "has_oxygen": false,
+    "button_color": "purple"
+}

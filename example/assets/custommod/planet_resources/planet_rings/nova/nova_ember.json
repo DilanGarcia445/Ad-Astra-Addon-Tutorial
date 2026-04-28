@@ -1,0 +1,8 @@
+{
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:nova",
+    "texture": "custommod:textures/sky/nova_ember.png",
+    "speed": 190,
+    "scale": 5,
+    "radius": 0.25
+}

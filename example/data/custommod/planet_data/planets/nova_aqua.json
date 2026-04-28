@@ -1,0 +1,16 @@
+{
+    "translation": "gui.custommod.text.nova_aqua",
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:nova",
+    "world": "custommod:nova_aqua",
+    "orbit_world": "custommod:nova_aqua_orbit",
+    "rocket_tier": 2,
+    "gravity": 10.1,
+    "has_atmosphere": true,
+    "days_in_year": 420,
+    "temperature": 15,
+    "solar_power": 16,
+    "orbit_solar_power": 18,
+    "has_oxygen": true,
+    "button_color": "light_blue"
+}

@@ -1,0 +1,16 @@
+{
+    "translation": "gui.custommod.text.solara_hollow",
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:solara",
+    "world": "custommod:solara_hollow",
+    "orbit_world": "custommod:solara_hollow_orbit",
+    "rocket_tier": 4,
+    "gravity": 1.2,
+    "has_atmosphere": false,
+    "days_in_year": 2500,
+    "temperature": -220,
+    "solar_power": 3,
+    "orbit_solar_power": 4,
+    "has_oxygen": false,
+    "button_color": "white"
+}

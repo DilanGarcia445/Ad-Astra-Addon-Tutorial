@@ -1,0 +1,8 @@
+{
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:abyss",
+    "texture": "custommod:textures/sky/abyss_jade.png",
+    "speed": 100,
+    "scale": 9,
+    "radius": 1.15
+}

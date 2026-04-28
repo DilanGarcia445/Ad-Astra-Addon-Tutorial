@@ -1,0 +1,16 @@
+{
+    "translation": "gui.custommod.text.nova_crimson",
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:nova",
+    "world": "custommod:nova_crimson",
+    "orbit_world": "custommod:nova_crimson_orbit",
+    "rocket_tier": 3,
+    "gravity": 4.8,
+    "has_atmosphere": true,
+    "days_in_year": 700,
+    "temperature": -40,
+    "solar_power": 10,
+    "orbit_solar_power": 12,
+    "has_oxygen": false,
+    "button_color": "red"
+}

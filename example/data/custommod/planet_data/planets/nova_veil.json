@@ -1,0 +1,16 @@
+{
+    "translation": "gui.custommod.text.nova_veil",
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:nova",
+    "world": "custommod:nova_veil",
+    "orbit_world": "custommod:nova_veil_orbit",
+    "rocket_tier": 4,
+    "gravity": 2.8,
+    "has_atmosphere": true,
+    "days_in_year": 3000,
+    "temperature": -230,
+    "solar_power": 2,
+    "orbit_solar_power": 3,
+    "has_oxygen": false,
+    "button_color": "purple"
+}

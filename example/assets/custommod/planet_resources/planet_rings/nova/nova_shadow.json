@@ -1,0 +1,8 @@
+{
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:nova",
+    "texture": "custommod:textures/sky/nova_shadow.png",
+    "speed": 50,
+    "scale": 8,
+    "radius": 2.4
+}

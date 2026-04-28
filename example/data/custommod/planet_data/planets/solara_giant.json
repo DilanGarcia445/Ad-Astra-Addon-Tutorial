@@ -1,0 +1,16 @@
+{
+    "translation": "gui.custommod.text.solara_giant",
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:solara",
+    "world": "custommod:solara_giant",
+    "orbit_world": "custommod:solara_giant_orbit",
+    "rocket_tier": 3,
+    "gravity": 18.5,
+    "has_atmosphere": false,
+    "days_in_year": 1200,
+    "temperature": -120,
+    "solar_power": 8,
+    "orbit_solar_power": 10,
+    "has_oxygen": false,
+    "button_color": "orange"
+}

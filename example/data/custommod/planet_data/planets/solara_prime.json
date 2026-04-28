@@ -1,0 +1,16 @@
+{
+    "translation": "gui.custommod.text.solara_prime",
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:solara",
+    "world": "custommod:solara_prime",
+    "orbit_world": "custommod:solara_prime_orbit",
+    "rocket_tier": 1,
+    "gravity": 4.5,
+    "has_atmosphere": false,
+    "days_in_year": 88,
+    "temperature": 820,
+    "solar_power": 35,
+    "orbit_solar_power": 38,
+    "has_oxygen": false,
+    "button_color": "red"
+}

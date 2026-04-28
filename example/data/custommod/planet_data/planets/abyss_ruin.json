@@ -1,0 +1,16 @@
+{
+    "translation": "gui.custommod.text.abyss_ruin",
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:abyss",
+    "world": "custommod:abyss_ruin",
+    "orbit_world": "custommod:abyss_ruin_orbit",
+    "rocket_tier": 3,
+    "gravity": 7.1,
+    "has_atmosphere": true,
+    "days_in_year": 650,
+    "temperature": -30,
+    "solar_power": 12,
+    "orbit_solar_power": 14,
+    "has_oxygen": false,
+    "button_color": "gray"
+}

@@ -1,0 +1,16 @@
+{
+    "translation": "gui.custommod.text.abyss_storm",
+    "galaxy": "custommod:custom_galaxy",
+    "solar_system": "custommod:abyss",
+    "world": "custommod:abyss_storm",
+    "orbit_world": "custommod:abyss_storm_orbit",
+    "rocket_tier": 2,
+    "gravity": 8.9,
+    "has_atmosphere": true,
+    "days_in_year": 300,
+    "temperature": 50,
+    "solar_power": 22,
+    "orbit_solar_power": 25,
+    "has_oxygen": false,
+    "button_color": "yellow"
+}
