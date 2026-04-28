@@ -1,0 +1,6 @@
+{
+    "galaxy": "custommod:custom_galaxy",
+    "texture": "custommod:textures/sky/custom_galaxy.png",
+    "button_color": "purple",
+    "scale": 250
+}
