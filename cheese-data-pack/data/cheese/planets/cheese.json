@@ -1,0 +1,10 @@
+{
+  "dimension": "cheese:cheese",
+  "gravity": 6.9,
+  "orbit": "cheese:cheese_orbit",
+  "oxygen": false,
+  "solar_power": 420,
+  "solar_system": "cheese:cheese_system",
+  "temperature": 34,
+  "tier": 2
+}
